@@ -18,7 +18,7 @@ To replicate this database in your local environment, ensure you have PostgreSQL
 
 1. Clone the repository
 Bash
-git clone https://github.com/shreygtm3-png/universe.git
+git clone https://github.com/shreygtm3-png/universe.sql
 cd universe-db
 2. Import the Database
 Run the following command in your terminal to create and populate the universe database:

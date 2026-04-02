@@ -1,5 +1,3 @@
-Perfect. I've updated the README.md to include your specific filename and GitHub profile. This is ready to be copied directly into your repository.
-
 Celestial Universe Database
 A PostgreSQL relational database containing structured information about the cosmos, including galaxies, stars, planets, and moons. This project demonstrates relational database design, table relationships, and data integrity.
 
@@ -20,7 +18,7 @@ To replicate this database in your local environment, ensure you have PostgreSQL
 
 1. Clone the repository
 Bash
-git clone https://github.com/shreygtm3-png/universe-db.git
+git clone https://github.com/shreygtm3-png/universe.git
 cd universe-db
 2. Import the Database
 Run the following command in your terminal to create and populate the universe database:
